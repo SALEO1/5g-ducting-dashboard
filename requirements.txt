@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+openmeteo-requests
+requests-cache
+retry-requests
+openpyxl
